@@ -24,7 +24,7 @@
 - [Code refactoring of junior developer](https://www.youtube.com/watch?v=sukS7QOBpK0&ab_channel=LaravelDaily)
 - [Controller Refactor](https://www.youtube.com/watch?v=ShrS3HXwzPg&ab_channel=LaravelDaily)
 - [Laravel: How to move FAT logic to the Model layer](https://luis-barros-nobrega.medium.com/laravel-how-to-move-fat-logic-to-the-model-layer-e2e3bfa2240)
-- [Laravel & Content Negotiation](Laravel and Content Negotiation)
+- [Laravel & Content Negotiation](https://fideloper.com/laravel-content-negotiation)
 
 ## Awesome Laravel Conferences
 - ["Cruddy by Design" - Adam Wathan - Laracon US 2017](https://www.youtube.com/watch?v=MF0jFKvS4SI&ab_channel=AdamWathan) (How to refactor routes & controllers) 
