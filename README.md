@@ -16,6 +16,7 @@
 
 ## Tutorials
 - [Laravel Scopes](https://www.youtube.com/watch?v=4cQi0mV04eE)
+- [Advanced Laravel](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO)
 
 
 ### Tuts to improve skills
