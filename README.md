@@ -25,5 +25,5 @@
 - [Controller Refactor](https://www.youtube.com/watch?v=ShrS3HXwzPg&ab_channel=LaravelDaily)
 
 ## Awesome Laravel Conferences
-- ["Cruddy by Design" - Adam Wathan - Laracon US 2017](https://www.youtube.com/watch?v=MF0jFKvS4SI&ab_channel=AdamWathan)
+- ["Cruddy by Design" - Adam Wathan - Laracon US 2017](https://www.youtube.com/watch?v=MF0jFKvS4SI&ab_channel=AdamWathan) (How to refactor routes & controllers) 
 
